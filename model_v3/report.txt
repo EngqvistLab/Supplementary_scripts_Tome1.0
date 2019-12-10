@@ -1,0 +1,15 @@
+Best parameters:
+{'max_features': 0.5}
+rmse:4.487
+r2:0.9428
+spearmanr:0.9697
+p_value:0.0
+pearonr:0.9782
+p_pearsonr:0.0
+
+
+5-fold Cross-validation results:
+rmse = 13.1343665013
+r2 = 0.509434562232
+sr = 0.578566956335
+pr = 0.713819791656
